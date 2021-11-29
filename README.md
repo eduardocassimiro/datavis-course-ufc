@@ -1,3 +1,10 @@
+## Entrega do dia 23/11/2021
+
+[Vega-Lite Api - Exercícios](observable-plots/vega-lite-plots/vega_lite_api_exercicios.html)<br>
+[Visualizando dados de terremoto usando a API Vega-Lite (Parte 1)](observable-plots/vega-lite-plots/visu_terremotos.md)<br>
+
+---
+
 ## Aula do dia 06/11/2021
 
 [index01.html](basic/index01.html)<br>
@@ -10,11 +17,6 @@
 [index08.html](basic/index08.html)<br>
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
-
-## Entrega do dia 23/11/2021
-
-[Vega-Lite Api - Exercícios](observable-plots/vega-lite-plots/vega_lite_api_exercicios.html)<br>
-[Visualizando dados de terremoto usando a API Vega-Lite (Parte 1)](observable-plots/vega-lite-plots/visu_terremotos.html)<br>
 
 ---
 
