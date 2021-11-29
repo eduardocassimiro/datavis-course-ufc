@@ -1,9 +1,17 @@
+## Entrega do dia 30/11/2021
+
+[Visualização de Dados Espaciais com Vega-Lite-API](observable-plots/vega-lite-plots/visu_dados_espaciais.html)<br>
+
+---
+
+
 ## Entrega do dia 23/11/2021
 
 [Vega-Lite Api - Exercícios](observable-plots/vega-lite-plots/vega_lite_api_exercicios.html)<br>
-[Visualizando dados de terremoto usando a API Vega-Lite (Parte 1)](observable-plots/vega-lite-plots/visu_terremotos.md)<br>
+[Visualizando dados de terremoto usando a API Vega-Lite (Parte 1)](observable-plots/vega-lite-plots/visu_terremotos.html)<br>
 
 ---
+
 
 ## Aula do dia 06/11/2021
 
