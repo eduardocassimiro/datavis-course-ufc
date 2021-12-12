@@ -1,3 +1,10 @@
+## Entrega do dia 12/12/2021
+
+[Les Miserables Network](observable-plots/vega-lite-plots/d3-reusable-chats/miserables_force_graph.html)<br>
+[Similar Song Network)](observable-plots/vega-lite-plots/d3-reusable-chats/similar_song_network.html)<br>
+
+---
+
 ## Entrega do dia 30/11/2021
 
 [Visualização de Dados Espaciais com Vega-Lite-API](observable-plots/vega-lite-plots/visu_dados_espaciais.html)<br>

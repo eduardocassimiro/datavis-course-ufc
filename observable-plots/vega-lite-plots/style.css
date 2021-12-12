@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
-
-h1 {
-    font-family: 'Dancing Script', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+html, body, html * {
+  font-family: 'Roboto Slab', serif;
 }
