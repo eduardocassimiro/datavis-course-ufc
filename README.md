@@ -1,7 +1,7 @@
 ## Entrega do dia 12/12/2021
 
-[Les Miserables Network](observable-plots/vega-lite-plots/d3-reusable-chats/miserables_force_graph.html)<br>
-[Similar Song Network)](observable-plots/vega-lite-plots/d3-reusable-chats/similar_song_network.html)<br>
+[Les Miserables Network](observable-plots/d3-reusable-chats/miserables_force_graph.html)<br>
+[Similar Song Network)](observable-plots/d3-reusable-chats/similar_song_network.html)<br>
 
 ---
 
