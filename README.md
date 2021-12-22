@@ -1,3 +1,9 @@
+## Entrega do dia 21/12/2021
+[Taxa de desemprego nos EUA em 2008 (Vega-Lite)](observable-plots/vega-lite-plots/desemprego_eua_2008)<br>
+[Homicídios em Fortaleza em 2012 (Vega-Lite)](observable-plots/vega-lite-plots/homicidios_fortaleza_2012)<br>
+
+---
+
 ## Entrega do dia 12/12/2021
 
 [Les Miserables Network](observable-plots/d3-reusable-charts/miserables_force_graph.html)<br>
