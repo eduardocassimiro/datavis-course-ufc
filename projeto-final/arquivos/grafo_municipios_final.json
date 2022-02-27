@@ -1,0 +1,1261 @@
+{
+    "JIJOCA DE JERICOACOARA":[
+       "CRUZ",
+       "CAMOCIM",
+       "BELA CRUZ"
+    ],
+    "ACARAU":[
+       "CRUZ",
+       "ITAREMA",
+       "BELA CRUZ",
+       "AMONTADA",
+       "MARCO",
+       "MORRINHOS"
+    ],
+    "CRUZ":[
+       "JIJOCA DE JERICOACOARA",
+       "ACARAU",
+       "BELA CRUZ"
+    ],
+    "CAMOCIM":[
+       "JIJOCA DE JERICOACOARA",
+       "BARROQUINHA",
+       "BELA CRUZ",
+       "GRANJA",
+       "MARCO"
+    ],
+    "ITAREMA":[
+       "ACARAU",
+       "AMONTADA"
+    ],
+    "BARROQUINHA":[
+       "CAMOCIM",
+       "CHAVAL",
+       "GRANJA"
+    ],
+    "BELA CRUZ":[
+       "JIJOCA DE JERICOACOARA",
+       "ACARAU",
+       "CRUZ",
+       "CAMOCIM",
+       "MARCO"
+    ],
+    "CHAVAL":[
+       "BARROQUINHA",
+       "GRANJA"
+    ],
+    "AMONTADA":[
+       "ACARAU",
+       "ITAREMA",
+       "ITAPIPOCA",
+       "MORRINHOS",
+       "SANTANA DO ACARAU",
+       "MIRAIMA"
+    ],
+    "GRANJA":[
+       "CAMOCIM",
+       "CHAVAL",
+       "SENADOR SÁ",
+       "MARTINOPOLE",
+       "MARCO",
+       "URUOCA",
+       "VICOSA DO CEARA",
+       "MORAUJO",
+       "TIANGUA",
+       "BARROQUINHA"
+    ],
+    "MARTINOPOLE":[
+       "GRANJA",
+       "SENADOR SA",
+       "URUOCA"
+    ],
+    "MARCO":[
+       "ACARAU",
+       "CAMOCIM",
+       "BELA CRUZ",
+       "GRANJA",
+       "SENADOR SA",
+       "MORRINHOS"
+    ],
+    "ITAPIPOCA":[
+       "AMONTADA",
+       "TRAIRI",
+       "MIRAIMA",
+       "IRAUCUBA",
+       "ITAPAJE",
+       "URUBURETAMA",
+       "TURURU"
+    ],
+    "SENADOR SA":[
+       "MARTINOPOLE",
+       "MARCO",
+       "MORRINHOS",
+       "URUOCA",
+       "SANTANA DO ACARAU",
+       "MORAUJO",
+       "MASSAPE"
+    ],
+    "TRAIRI":[
+       "ITAPIPOCA",
+       "PARAIPABA",
+       "SAO GONCALO DO AMARANTE",
+       "UMIRIM",
+       "TURURU"
+    ],
+    "MORRINHOS":[
+       "ACARAU",
+       "AMONTADA",
+       "MARCO",
+       "SENADOR SA",
+       "SANTANA DO ACARAU"
+    ],
+    "URUOCA":[
+       "GRANJA",
+       "MARTINOPOLE",
+       "SENADOR SA",
+       "MORAUJO",
+       "TIANGUA"
+    ],
+    "SANTANA DO ACARAU":[
+       "AMONTADA",
+       "SENADOR SA",
+       "MORRINHOS",
+       "MASSAPE",
+       "MIRAIMA",
+       "SOBRAL"
+    ],
+    "VICOSA DO CEARA":[
+       "GRANJA",
+       "TIANGUA"
+    ],
+    "PARAIPABA":[
+       "TRAIRI",
+       "PARACURU",
+       "SAO GONCALO DO AMARANTE"
+    ],
+    "MORAUJO":[
+       "GRANJA",
+       "SENADOR SA",
+       "URUOCA",
+       "MASSAPE",
+       "TIANGUA",
+       "COREAU",
+       "ALCANTARAS"
+    ],
+    "MASSAPE":[
+       "SENADOR SA",
+       "SANTANA DO ACARAU",
+       "MORAUJO",
+       "MERUOCA",
+       "SOBRAL"
+    ],
+    "PARACURU":[
+       "PARAIPABA",
+       "SAO GONCALO DO AMARANTE"
+    ],
+    "TIANGUA":[
+       "GRANJA",
+       "URUOCA",
+       "VICOSA DO CEARA",
+       "MORAUJO",
+       "COREAU",
+       "UBAJARA",
+       "FRECHEIRINHA"
+    ],
+    "MIRAIMA":[
+       "AMONTADA",
+       "ITAPIPOCA",
+       "SANTANA DO ACARAU",
+       "SOBRAL",
+       "IRAUCUBA",
+       "ITAPAJE"
+    ],
+    "SAO GONCALO DO AMARANTE":[
+       "TRAIRI",
+       "PARAIPABA",
+       "PARACURU",
+       "CAUCAIA",
+       "SAO LUIS DO CURU",
+       "PENTECOSTE"
+    ],
+    "COREAU":[
+       "MORAUJO",
+       "MASSAPE",
+       "TIANGUA",
+       "SOBRAL",
+       "UBAJARA",
+       "MUCAMBO",
+       "FRECHEIRINHA",
+       "ALCANTARAS"
+    ],
+    "CAUCAIA":[
+       "SAO GONCALO DO AMARANTE",
+       "FORTALEZA",
+       "PENTECOSTE",
+       "MARACANAU",
+       "MARANGUAPE"
+    ],
+    "UMIRIM":[
+       "TURURU",
+       "URUBURETAMA",
+       "SAO LUIS DO CURU",
+       "ITAPAJE",
+       "PENTECOSTE",
+       "TRAIRI"
+    ],
+    "SOBRAL":[
+       "SANTANA DO ACARAU",
+       "MASSAPE",
+       "MIRAIMA",
+       "COREAU",
+       "IRAUCUBA",
+       "FORQUILHA",
+       "CARIRE",
+       "IBIAPINA",
+       "SANTA QUITERIA",
+       "SAO BENEDITO",
+       "ALCANTARAS",
+       "MERUOCA",
+       "MUCAMBO"
+    ],
+    "IRAUCUBA":[
+       "ITAPIPOCA",
+       "MIRAIMA",
+       "SOBRAL",
+       "ITAPAJE",
+       "TEJUCUOCA",
+       "SANTA QUITERIA",
+       "CANINDE"
+    ],
+    "ITAPAJE":[
+       "ITAPIPOCA",
+       "MIRAIMA",
+       "UMIRIM",
+       "IRAUCUBA",
+       "PENTECOSTE",
+       "TEJUCUOCA",
+       "APUIARES",
+       "URUBURETAMA"
+    ],
+    "FORTALEZA":[
+       "CAUCAIA",
+       "MARACANAU",
+       "PACATUBA",
+       "ITAITINGA",
+       "EUSEBIO",
+       "AQUIRAZ"
+     ],
+    "PENTECOSTE":[
+       "SAO LUIS DO CURU",
+       "SAO GONCALO DO AMARANTE",
+       "CAUCAIA",
+       "UMIRIM",
+       "ITAPAJE",
+       "TEJUCUOCA",
+       "APUIARES",
+       "MARANGUAPE",
+       "CARIDADE"
+    ],
+    "FORQUILHA":[
+       "SOBRAL",
+       "CARIRE",
+       "SANTA QUITERIA"
+    ],
+    "TEJUCUOCA":[
+       "IRAUCUBA",
+       "ITAPAJE",
+       "PENTECOSTE",
+       "APUIARES",
+       "GENERAL SAMPAIO",
+       "CANINDE"
+    ],
+    "AQUIRAZ":[
+       "EUSEBIO",
+       "ITAITINGA",
+       "HORIZONTE",
+       "CASCAVEL",
+       "PINDORETAMA"
+    ],
+    "UBAJARA":[
+       "TIANGUA",
+       "FRECHEIRINHA",
+       "COREAU",
+       "IBIAPINA",
+       "MUCAMBO"
+    ],
+    "CARIRE":[
+       "SOBRAL",
+       "MUCAMBO",
+       "PACUJA",
+       "RERIUTABA",
+       "VARJOTA",
+       "SANTA QUITERIA",
+       "GROAIRAS"
+    ],
+    "APUIARES":[
+       "ITAPAJE",
+       "PENTECOSTE",
+       "TEJUCUOCA",
+       "GENERAL SAMPAIO",
+       "PARAMOTI"
+    ],
+    "ITAITINGA":[
+       "FORTALEZA",
+       "AQUIRAZ",
+       "HORIZONTE",
+       "GUAIUBA",
+       "PACAJUS",
+       "EUSEBIO",
+       "PACATUBA"
+    ],
+    "MARANGUAPE":[
+       "CAUCAIA",
+       "MARACANAU",
+       "PACATUBA",
+       "GUAIUBA",
+       "PALMACIA",
+       "CARIDADE",
+       "PENTECOSTE"
+    ],
+    "IBIAPINA":[
+       "MUCAMBO",
+       "UBAJARA",
+       "GRACA",
+       "SAO BENEDITO"
+    ],
+    "SANTA QUITERIA":[
+       "SOBRAL",
+       "FORQUILHA",
+       "GROAIRAS",
+       "CARIRE",
+       "CANINDE",
+       "IRAUCUBA",
+       "VARJOTA",
+       "PIRES FERREIRA",
+       "HIDROLANDIA",
+       "CATUNDA",
+       "ITATIRA",
+       "MADALENA",
+       "BOA VIAGEM",
+       "MONSENHOR TABOSA"
+    ],
+    "GRACA":[
+       "RERIUTABA",
+       "GUARACIABA DO NORTE",
+       "SAO BENEDITO",
+       "IBIAPINA",
+       "MUCAMBO",
+       "PACUJA"
+    ],
+    "SAO BENEDITO":[
+       "GRACA",
+       "IBIAPINA",
+       "CARNAUBAL",
+       "GUARACIABA DO NORTE"
+    ],
+    "GENERAL SAMPAIO":[
+       "TEJUCUOCA",
+       "APUIARES",
+       "PARAMOTI"
+    ],
+    "HORIZONTE":[
+       "AQUIRAZ",
+       "ITAITINGA",
+       "CASCAVEL",
+       "GUAIUBA",
+       "PACAJUS",
+       "PINDORETAMA"
+    ],
+    "RERIUTABA":[
+       "CARIRE",
+       "GRACA",
+       "PACUJA",
+       "GUARACIABA DO NORTE",
+       "IPU",
+       "PIRES FERRIRA",
+       "VARJOTA"
+    ],
+    "CARIDADE":[
+       "PENTECOSTE",
+       "MARANGUAPE",
+       "PALMACIA",
+       "PARAMOTI",
+       "CANINDE",
+       "MULUNGU",
+       "PACOTI",
+       "GUARAMIRANGA"
+    ],
+    "CASCAVEL":[
+       "AQUIRAZ",
+       "HORIZONTE",
+       "BEBERIBE",
+       "PACAJUS",
+       "CHOROZINHO",
+       "OCARA",
+       "MORADA NOVA",
+       "PINDORETAMA"
+    ],
+    "GUAIUBA":[
+       "PACATUBA",
+       "ITAITINGA",
+       "MARANGUAPE",
+       "PALMACIA",
+       "PACAJUS",
+       "REDENCAO",
+       "ACARAPE"
+    ],
+    "PALMACIA":[
+       "MARANGUAPE",
+       "CARIDADE",
+       "GUAIUBA",
+       "REDENCAO",
+       "PACOTI"
+    ],
+    "CARNAUBAL":[
+       "SAO BENEDITO",
+       "GUARACIABA DO NORTE"
+    ],
+    "PARAMOTI":[
+       "APUIARES",
+       "GENERAL SAMPAIO",
+       "CARIDADE",
+       "CANINDE"
+    ],
+    "CANINDE":[
+       "IRAUCUBA",
+       "TEJUCUOCA",
+       "SANTA QUITERIA",
+       "CARIDADE",
+       "PARAMOTI",
+       "MULUNGU",
+       "ARATUBA",
+       "ITAPIUNA",
+       "ITATIRA",
+       "CHORO",
+       "MADALENA"
+    ],
+    "BEBERIBE":[
+       "CASCAVEL",
+       "OCARA",
+       "FORTIM",
+       "ARACATI",
+       "MORADA NOVA",
+       "PALHANO",
+       "RUSSAS"
+    ],
+    "GUARACIABA DO NORTE":[
+       "CARIRE",
+       "GRACA",
+       "SAO BENEDITO",
+       "RERIUTABA",
+       "CARNAUBAL",
+       "IPU",
+       "CROATA"
+    ],
+    "PACAJUS":[
+       "ITAITINGA",
+       "HORIZONTE",
+       "CASCAVEL",
+       "GUAIUBA",
+       "ACARAPE",
+       "CHOROZINHO"
+    ],
+    "REDENCAO":[
+        "PALMACIA",
+        "PACOTI",
+        "BATURITE",
+        "ARACOIABA",
+        "BARREIRA",
+        "ACARAPE",
+        "GUAIUBA"
+    ],
+    "ACARAPE":[
+       "GUAIUBA",
+       "PACAJUS",
+       "REDENCAO",
+       "CHOROZINHO",
+       "BARREIRA"
+    ],
+    "MULUNGU":[
+       "CARIDADE",
+       "GUARAMIRANGA",
+       "CANINDE",
+       "BATURITE",
+       "ARATUBA",
+       "CAPISTRANO"
+    ],
+    "IPU":[
+       "RERIUTABA",
+       "GUARACIABA DO NORTE",
+       "PIRES FERREIRA",
+       "HIDROLANDIA",
+       "CROATA",
+       "IPUEIRAS",
+       "NOVA RUSSAS"
+    ],
+    "PIRES FERREIRA":[
+       "RERIUTABA",
+       "IPU",
+       "VARJOTA",
+       "SANTA QUITERIA",
+       "HIDROLANDIA"
+    ],
+    "CHOROZINHO":[
+       "CASCAVEL",
+       "PACAJUS",
+       "ACARAPE",
+       "BARREIRA",
+       "ARACOIABA",
+       "OCARA"
+    ],
+    "BATURITE":[
+       "GUARAMIRANGA",
+       "PACOTI",
+       "REDENCAO",
+       "MULUNGU",
+       "ARACOIABA",
+       "CAPISTRANO",
+       "ITAPIUNA",
+       "IBARETAMA"
+    ],
+    "BARREIRA":[
+       "REDENCAO",
+       "ACARAPE",
+       "CHOROZINHO",
+       "ARACOIABA"
+    ],
+    "HIDROLANDIA":[
+       "SANTA QUITERIA",
+       "IPU",
+       "CATUNDA",
+       "TAMBORIL"
+    ],
+    "CROATA":[
+       "GUARACIABA DO NORTE",
+       "IPU",
+       "IPUEIRAS"
+    ],
+    "ARACOIABA":[
+       "REDENCAO",
+       "CHOROZINHO",
+       "BATURITE",
+       "BARREIRA",
+       "OCARA",
+       "ITAPIUNA",
+       "IBARETAMA"
+    ],
+    "ARATUBA":[
+       "CANINDE",
+       "MULUNGU",
+       "BATURITE",
+       "CAPISTRANO",
+       "ITAPIUNA"
+    ],
+    "CAPISTRANO":[
+       "MULUNGU",
+       "BATURITE",
+       "ARATUBA",
+       "ITAPIUNA",
+       "IBARETAMA"
+    ],
+    "OCARA":[
+       "CASCAVEL",
+       "BEBERIBE",
+       "CHOROZINHO",
+       "ARACOIABA",
+       "MORADA NOVA"
+    ],
+    "FORTIM":[
+       "BEBERIBE",
+       "ARACATI"
+    ],
+    "ARACATI":[
+       "BEBERIBE",
+       "FORTIM",
+       "PALHANO",
+       "ITAICABA",
+       "ICAPUI",
+       "JAGUARUANA",
+       "MAURITI"
+    ],
+    "IPUEIRAS":[
+       "IBIAPINA",
+       "IPU",
+       "CROATA",
+       "NOVA RUSSAS",
+       "PORANGA",
+       "ARARENDA"
+    ],
+    "CATUNDA":[
+       "SANTA QUITERIA",
+       "HIDROLANDIA",
+       "TAMBORIL",
+       "MONSENHOR TABOSA"
+    ],
+    "ITAPIUNA":[
+       "CANINDE",
+       "BATURITE",
+       "ARACOIABA",
+       "ARATUBA",
+       "CAPISTRANO",
+       "IBARETAMA",
+       "CHORO",
+       "QUIXADA"
+    ],
+    "ITATIRA":[
+       "SANTA QUITERIA",
+       "CANINDE",
+       "MADALENA",
+       "BOA VIAGEM"
+    ],
+    "MORADA NOVA":[
+       "CASCAVEL",
+       "BEBERIBE",
+       "OCARA",
+       "RUSSAS",
+       "QUIXADA",
+       "IBICUITINGA",
+       "LIMOEIRO DO NORTE",
+       "BANABUIU",
+       "TABULEIRO DO NORTE",
+       "JAGUARETAMA",
+       "SAO JOAO DO JAGUARIBE",
+       "ALTO SANTO",
+       "JAGUARIBARA"
+    ],
+    "NOVA RUSSAS":[
+       "IPU",
+       "IPUEIRAS",
+       "TAMBORIL",
+       "ARARENDA",
+       "IPAPORANGA"
+    ],
+    "TAMBORIL":[
+       "HIDROLANDIA",
+       "CATUNDA",
+       "NOVA RUSSAS",
+       "BOA VIAGEM",
+       "MONSENHOR TABOSA",
+       "IPAPORANGA",
+       "CRATEUS",
+       "INDEPENDENCIA"
+    ],
+    "PORANGA":[
+       "IPUEIRAS",
+       "ARARENDA",
+       "IPAPORANGA",
+       "CRATEUS"
+    ],
+    "PALHANO":[
+       "BEBERIBE",
+       "ARACATI",
+       "RUSSAS",
+       "ITAICABA",
+       "JAGUARUANA"
+    ],
+    "RUSSAS":[
+       "BEBERIBE",
+       "MORADA NOVA",
+       "PALHANO",
+       "JAGUARUANA",
+       "LIMOEIRO DO NORTE",
+       "QUIXERE"
+    ],
+    "IBARETAMA":[
+       "BATURITE",
+       "ARACOIABA",
+       "CAPISTRANO",
+       "ITAPIUNA",
+       "QUIXADA"
+    ],
+    "ITAICABA":[
+       "ARACATI",
+       "PALHANO",
+       "JAGUARUANA"
+    ],
+    "CHORO":[
+       "CANINDE",
+       "ITAPIUNA",
+       "QUIXADA",
+       "MADALENA",
+       "QUIXERAMOBIM"
+    ],
+    "ICAPUI":[
+       "ARACATI",
+       "MAURITI"
+    ],
+    "QUIXADA":[
+       "ITAPIUNA",
+       "MORADA NOVA",
+       "IBARETAMA",
+       "CHORO",
+       "QUIXERAMOBIM",
+       "IBICUITINGA",
+       "BANABUIU"
+    ],
+    "MADALENA":[
+       "SANTA QUITERIA",
+       "CANINDE",
+       "ITATIRA",
+       "CHORO",
+       "BOA VIAGEM",
+       "QUIXERAMOBIM"
+    ],
+    "ARARENDA":[
+       "IPUEIRAS",
+       "NOVA RUSSAS",
+       "PORANGA"
+    ],
+    "BOA VIAGEM":[
+       "SANTA QUITERIA",
+       "ITATIRA",
+       "TAMBORIL",
+       "MADALENA",
+       "MONSENHOR TABOSA",
+       "QUIXERAMOBIM",
+       "INDEPENDENCIA",
+       "PEDRA BRANCA"
+    ],
+    "MONSENHOR TABOSA":[
+       "SANTA QUITERIA",
+       "CATUNDA",
+       "TAMBORIL",
+       "BOA VIAGEM"
+    ],
+    "JAGUARUANA":[
+       "ARACATI",
+       "PALHANO",
+       "RUSSAS",
+       "ITAICABA",
+       "QUIXERE"
+    ],
+    "IPAPORANGA":[
+       "NOVA RUSSAS",
+       "TAMBORIL",
+       "PORANGA",
+       "CRATEUS"
+    ],
+    "QUIXERAMOBIM":[
+       "CHORO",
+       "QUIXADA",
+       "MADALENA",
+       "BOA VIAGEM",
+       "BANABUIU",
+       "PEDRA BRANCA",
+       "SANADOR POMPEU",
+       "MILHA"
+    ],
+    "IBICUITINGA":[
+       "MORADA NOVA",
+       "QUIXADA"
+    ],
+    "CRATEUS":[
+       "TAMBORIL",
+       "PORANGA",
+       "IPAPORANGA",
+       "INDEPENDENCIA",
+       "NOVO ORIENTE"
+    ],
+    "LIMOEIRO DO NORTE":[
+       "MORADA NOVA",
+       "RUSSAS",
+       "QUIXERE",
+       "TABULEIRO DO NORTE"
+    ],
+    "QUIXERE":[
+       "RUSSAS",
+       "JAGUARUANA",
+       "LIMOEIRO DO NORTE"
+    ],
+    "BANABUIU":[
+       "MORADA NOVA",
+       "QUIXADA",
+       "QUIXERAMOBIM",
+       "JAGUARETAMA",
+       "SOLONOPOLE",
+       "MILHA"
+    ],
+    "INDEPENDENCIA":[
+       "TAMBORIL",
+       "BOA VIAGEM",
+       "CRATEUS",
+       "PEDRA BRANCA",
+       "TAUA",
+       "NOVO ORIENTE",
+       "QUITERIANOPOLIS"
+    ],
+    "TABULEIRO DO NORTE":[
+       "MORADA NOVA",
+       "LIMOEIRO DO NORTE",
+       "SAO JOAO DO JAGUARIBE",
+       "ALTO SANTO"
+    ],
+    "JAGUARETAMA":[
+       "MORADA NOVA",
+       "BANABUIU",
+       "JAGUARIBARA",
+       "SOLONOPOLE",
+       "JAGUARIBE"
+    ],
+    "SAO JOAO DO JAGUARIBE":[
+       "MORADA NOVA",
+       "TABULEIRO DO NORTE",
+       "ALTO SANTO",
+       "JAGUARIBARA"
+    ],
+    "PEDRA BRANCA":[
+       "BOA VIAGEM",
+       "QUIXERAMOBIM",
+       "INDEPENDENCIA",
+       "SANADOR POMPEU",
+       "TAUA",
+       "MOMBACA"
+    ],
+    "ALTO SANTO":[
+       "MORADA NOVA",
+       "TABULEIRO DO NORTE",
+       "SAO JOAO DO JAGUARIBE",
+       "JAGUARIBARA",
+       "IRACEMA",
+       "POTIRETAMA"
+    ],
+    "JAGUARIBARA":[
+       "MORADA NOVA",
+       "JAGUARETAMA",
+       "SAO JOAO DO JAGUARIBE",
+       "ALTO SANTO",
+       "IRACEMA",
+       "JAGUARIBE",
+       "PEREIRO"
+    ],
+    "SANADOR POMPEU":[
+       "QUIXERAMOBIM",
+       "PEDRA BRANCA",
+       "MILHA",
+       "MOMBACA",
+       "PIQUET CARNEIRO",
+       "DEPUTADO IRAPUAN PINHEIRO"
+    ],
+    "TAUA":[
+       "INDEPENDENCIA",
+       "PEDRA BRANCA",
+       "MOMBACA",
+       "QUITERIANOPOLIS",
+       "PARAMBU",
+       "ARNEIROZ"
+    ],
+    "NOVO ORIENTE":[
+       "CRATEUS",
+       "INDEPENDENCIA",
+       "QUITERIANOPOLIS"
+    ],
+    "SOLONOPOLE":[
+       "BANABUIU",
+       "JAGUARETAMA",
+       "MILHA",
+       "JAGUARIBE",
+       "DEPUTADO IRAPUAN PINHEIRO",
+       "ACOPIARA",
+       "QUIXELO",
+       "OROS"
+    ],
+    "MILHA":[
+       "QUIXERAMOBIM",
+       "BANABUIU",
+       "SANADOR POMPEU",
+       "SOLONOPOLE",
+       "PIQUET CARNEIRO",
+       "DEPUTADO IRAPUAN PINHEIRO"
+    ],
+    "MOMBACA":[
+       "PEDRA BRANCA",
+       "SANADOR POMPEU",
+       "TAUA",
+       "PIQUET CARNEIRO",
+       "ARNEIROZ"
+    ],
+    "IRACEMA":[
+       "ALTO SANTO",
+       "JAGUARIBARA",
+       "POTIRETAMA",
+       "PEREIRO",
+       "ERERE"
+    ],
+    "POTIRETAMA":[
+       "ALTO SANTO",
+       "IRACEMA",
+       "ERERE",
+       "MAURITI"
+    ],
+    "QUITERIANOPOLIS":[
+       "INDEPENDENCIA",
+       "TAUA",
+       "NOVO ORIENTE",
+       "PARAMBU"
+    ],
+    "PIQUET CARNEIRO":[
+       "SANADOR POMPEU",
+       "MILHA",
+       "MOMBACA",
+       "DEPUTADO IRAPUAN PINHEIRO",
+       "ACOPIARA"
+    ],
+    "JAGUARIBE":[
+       "JAGUARETAMA",
+       "JAGUARIBARA",
+       "SOLONOPOLE",
+       "PEREIRO",
+       "OROS",
+       "ICO"
+    ],
+    "DEPUTADO IRAPUAN PINHEIRO":[
+       "SANADOR POMPEU",
+       "SOLONOPOLE",
+       "MILHA",
+       "PIQUET CARNEIRO",
+       "ACOPIARA"
+    ],
+    "PEREIRO":[
+       "JAGUARIBARA",
+       "IRACEMA",
+       "JAGUARIBE",
+       "ERERE",
+       "ICO"
+    ],
+    "ERERE":[
+       "IRACEMA",
+       "POTIRETAMA",
+       "PEREIRO",
+       "ICO",
+       "IPAUMIRIM",
+       "MAURITI"
+    ],
+    "ACOPIARA":[
+       "SOLONOPOLE",
+       "PIQUET CARNEIRO",
+       "DEPUTADO IRAPUAN PINHEIRO",
+       "QUIXELO",
+       "ARNEIROZ",
+       "CATARINA",
+       "IGUATU",
+       "SABOEIRO",
+       "JUCAS"
+    ],
+    "PARAMBU":[
+       "TAUA",
+       "QUITERIANOPOLIS",
+       "ARNEIROZ",
+       "AIUABA"
+    ],
+    "QUIXELO":[
+       "SOLONOPOLE",
+       "ACOPIARA",
+       "OROS",
+       "IGUATU"
+    ],
+    "OROS":[
+       "SOLONOPOLE",
+       "JAGUARIBE",
+       "QUIXELO",
+       "ICO",
+       "IGUATU"
+    ],
+    "ARNEIROZ":[
+       "TAUA",
+       "MOMBACA",
+       "ACOPIARA",
+       "PARAMBU",
+       "CATARINA",
+       "AIUABA"
+    ],
+    "ICO":[
+       "JAGUARIBE",
+       "PEREIRO",
+       "ERERE",
+       "OROS",
+       "IGUATU",
+       "CEDRO",
+       "UMARI",
+       "LAVRAS DA MANGABEIRA"
+    ],
+    "CATARINA":[
+       "ACOPIARA",
+       "ARNEIROZ",
+       "SABOEIRO",
+       "AIUABA"
+    ],
+    "IGUATU":[
+       "ACOPIARA",
+       "QUIXELO",
+       "OROS",
+       "ICO",
+       "JUCAS",
+       "CEDRO",
+       "CARIUS"
+    ],
+    "SABOEIRO":[
+       "ACOPIARA",
+       "CATARINA",
+       "JUCAS",
+       "AIUABA",
+       "ANTONINA DO NORTE"
+    ],
+    "JUCAS":[
+       "ACOPIARA",
+       "IGUATU",
+       "SABOEIRO",
+       "TARRAFAS"
+    ],
+    "AIUABA":[
+       "PARAMBU",
+       "ARNEIROZ",
+       "CATARINA",
+       "SABOEIRO",
+       "ANTONINA DO NORTE",
+       "CAMPOS SALES"
+    ],
+    "CEDRO":[
+       "ICO",
+       "IGUATU",
+       "CARIUS",
+       "VARZEA ALEGRE",
+       "LAVRAS DA MANGABEIRA"
+    ],
+    "CARIUS":[
+       "IGUATU",
+       "CEDRO",
+       "VARZEA ALEGRE",
+       "TARRAFAS"
+    ],
+    "UMARI":[
+       "ICO",
+       "LAVRAS DA MANGABEIRA",
+       "IPAUMIRIM",
+       "BAIXIO"
+    ],
+    "VARZEA ALEGRE":[
+       "CEDRO",
+       "CARIUS",
+       "LAVRAS DA MANGABEIRA",
+       "FARIAS BRITO",
+       "CARIRIACU",
+       "GRANJEIRO"
+    ],
+    "LAVRAS DA MANGABEIRA":[
+       "ICO",
+       "CEDRO",
+       "UMARI",
+       "VARZEA ALEGRE",
+       "IPAUMIRIM",
+       "AURORA",
+       "CARIRIACU",
+       "GRANJEIRO",
+       "BAIXIO"
+    ],
+    "TARRAFAS":[
+       "JUCAS",
+       "CARIUS",
+       "ANTONINA DO NORTE",
+       "ASSARE",
+       "FARIAS BRITO"
+    ],
+    "ANTONINA DO NORTE":[
+       "SABOEIRO",
+       "AIUABA",
+       "TARRAFAS",
+       "CAMPOS SALES",
+       "ASSARE"
+    ],
+    "IPAUMIRIM":[
+       "ERERE",
+       "UMARI",
+       "LAVRAS DA MANGABEIRA",
+       "AURORA",
+       "BAIXIO"
+    ],
+    "CAMPOS SALES":[
+       "AIUABA",
+       "ANTONINA DO NORTE",
+       "ASSARE",
+       "POTENGI",
+       "SALITRE"
+    ],
+    "ASSARE":[
+       "TARRAFAS",
+       "ANTONINA DO NORTE",
+       "CAMPOS SALES",
+       "FARIAS BRITO",
+       "POTENGI",
+       "NOVA OLINDA",
+       "SANTANA DO CARIRI",
+       "ALTANEIRA"
+    ],
+    "FARIAS BRITO":[
+       "VARZEA ALEGRE",
+       "TARRAFAS",
+       "ASSARE",
+       "CARIRIACU",
+       "NOVA OLINDA",
+       "CRATO",
+       "ALTANEIRA"
+    ],
+    "AURORA":[
+       "LAVRAS DA MANGABEIRA",
+       "IPAUMIRIM",
+       "BARRO",
+       "MILAGRES",
+       "JUAZEIRO DO NORTE",
+       "MISSAO VELHA"
+    ],
+    "BARRO":[
+       "AURORA",
+       "MILAGRES",
+       "MAURITI"
+    ],
+    "CARIRIACU":[
+       "VARZEA ALEGRE",
+       "LAVRAS DA MANGABEIRA",
+       "FARIAS BRITO",
+       "CRATO",
+       "JUAZEIRO DO NORTE",
+       "MISSAO VELHA",
+       "GRANJEIRO"
+    ],
+    "MILAGRES":[
+       "AURORA",
+       "BARRO",
+       "MISSAO VELHA",
+       "MAURITI",
+       "ABAIARA",
+       "BREJO SANTO"
+    ],
+    "POTENGI":[
+       "CAMPOS SALES",
+       "ASSARE",
+       "SALITRE",
+       "SANTANA DO CARIRI",
+       "ARARIPE"
+    ],
+    "NOVA OLINDA":[
+       "ASSARE",
+       "FARIAS BRITO",
+       "CRATO",
+       "SANTANA DO CARIRI",
+       "ALTANEIRA"
+    ],
+    "CRATO":[
+       "FARIAS BRITO",
+       "CARIRIACU",
+       "NOVA OLINDA",
+       "SANTANA DO CARIRI",
+       "JUAZEIRO DO NORTE",
+       "BARBALHA"
+    ],
+    "SALITRE":[
+       "CAMPOS SALES",
+       "POTENGI",
+       "ARARIPE"
+    ],
+    "SANTANA DO CARIRI":[
+       "ASSARE",
+       "POTENGI",
+       "NOVA OLINDA",
+       "CRATO",
+       "ARARIPE"
+    ],
+    "ARARIPE":[
+       "POTENGI",
+       "SALITRE",
+       "SANTANA DO CARIRI",
+       "PENAFORTE"
+    ],
+    "JUAZEIRO DO NORTE":[
+       "AURORA",
+       "CARIRIACU",
+       "CRATO",
+       "MISSAO VELHA",
+       "BARBALHA"
+    ],
+    "MISSAO VELHA":[
+       "AURORA",
+       "CARIRIACU",
+       "MILAGRES",
+       "JUAZEIRO DO NORTE",
+       "BARBALHA",
+       "ABAIARA",
+       "BREJO SANTO",
+       "PORTEIRAS",
+       "JARDIM"
+    ],
+    "MAURITI":[
+       "ARACATI",
+       "ICAPUI",
+       "POTIRETAMA",
+       "ERERE",
+       "BARRO",
+       "MILAGRES",
+       "BREJO SANTO"
+    ],
+    "BARBALHA":[
+       "CRATO",
+       "JUAZEIRO DO NORTE",
+       "MISSAO VELHA",
+       "JARDIM"
+    ],
+    "ABAIARA":[
+       "MILAGRES",
+       "MISSAO VELHA",
+       "BREJO SANTO"
+    ],
+    "BREJO SANTO":[
+       "BARRO",
+       "MISSAO VELHA",
+       "MAURITI",
+       "ABAIARA",
+       "PORTEIRAS",
+       "JATI"
+    ],
+    "PORTEIRAS":[
+       "MISSAO VELHA",
+       "BREJO SANTO",
+       "JARDIM",
+       "JATI"
+    ],
+    "JARDIM":[
+       "MISSAO VELHA",
+       "BARBALHA",
+       "PORTEIRAS",
+       "JATI",
+       "PENAFORTE"
+    ],
+    "JATI":[
+       "BREJO SANTO",
+       "PORTEIRAS",
+       "JARDIM",
+       "PENAFORTE"
+    ],
+    "PENAFORTE":[
+       "JARDIM",
+       "JATI"
+    ],
+
+"FRECHEIRINHA":["COREAU", "TIANGUA", "UBAJARA"],
+"MUCAMBO":["COREAU", "SOBRAL", "CARIRE", "PACUJA", "GRACA", "IBIAPINA", "UBAJARA"],
+"PACUJA": ["MUCAMBO", "GRACA", "CARIRE", "RERIUTABA"],
+"ALCANTARAS":["MERUOCA", "MASSAPE", "MORAUJO", "COREARU", "SOBRAL"],
+"GROAIRAS":["CARIRE", "SOBRAL", "FORQUILHA", "SANTA QUITERIA"],
+"VARJOTA":["RERIUTABA", "PIRES FERREIRA", "HIDROLANDIA", "SANTA QUITERIA", "CARIRE"],
+"URUBURETAMA":["ITAPIPOCA", "ITAPAJE", "UMIRIM", "TURURU"],
+"TURURU":["ITAPIPOCA", "URUBURETAMA", "UMIRM", "TRAIRI"],
+"SAO LUIS DO CURU":["UMIRIM", "PENTECOSTE", "SAO GONCALO DO AMARANTE", "TRAIRI"],
+"PINDORETAMA":["AQUIRAZ", "HORIZONTE", "CASCAVEL"],
+"EUSEBIO":["FORTALEZA", "ITAITINGA", "AQUIRAZ"],
+"MARACANAU":["FORTALEZA", "CAUCAIA", "MARANGUAPE", "PACATUBA"],
+"PACATUBA":["MARACANAU", "MARANGUAPE", "GUAIUBA", "ITAITINGA","FORTALEZA"],
+"BAIXIO":["IPAUMIRIM", "LAVRAS DA MANGABEIRA", "UMARI"],
+"GRANJEIRO":["VARZEA ALEGRE", "LAVRAS DA MANGABEIRA", "CARIRIACU"],
+"ALTANEIRA":["ASSARE", "NOVA OLINDA", "FARIAS BRITO"],
+"MERUOCA":["MASSAPE", "MORAUJO", "ALCANTARAS", "SOBRAL"] ,
+"PACOTI":["GUARAMIRANGA", "CARIDADE", "PALMACIA", "REDENCAO", "BATURITE"],
+"GUARAMIRANGA":["CARIDADE", "MULUNGU", "BATURITE", "PACOTI"]
+ }
